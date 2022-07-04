@@ -1,7 +1,7 @@
 import socket
 
 HEADER = 64
-PORT = 5050
+PORT = 3000
 FORMAT = 'utf-8'
 DISCONNECT = '@DISCONNECT'
 SERVER = 'enter with server ip'
